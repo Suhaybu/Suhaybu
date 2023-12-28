@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Suhayb
 ==============================================================================================================================
-a Software Engineering student
+Software Engineering student
 -----------------
 * 🌍  I'm based in KSA
 * 🚀  I'm currently working on a Dicord bot built with [discord.py](http://https://github.com/Rapptz/discord.py)
