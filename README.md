@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suhayb
+Hi there! 👋 I'm Suhayb
 ==============================================================================================================================
-Software Engineer
+a Software Engineering student
 -----------------
 * 🌍  I'm based in KSA
 * 🚀  I'm currently working on a Dicord bot built with [discord.py](http://https://github.com/Rapptz/discord.py)
