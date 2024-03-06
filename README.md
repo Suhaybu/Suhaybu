@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Suhayb
 ---------------------
-#### Software Engineering student
+#### A Software Engineering student
 
-- 🌍  Based in KSA
+- 🌍  Based in the Kingdom of Saudi Arabia
 - 🧠  I'm learning [interactions.py](https://github.com/interactions-py/interactions.py)
 - 🚀  Currently cookin up a Dicord bot
 
