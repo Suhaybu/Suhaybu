@@ -2,7 +2,7 @@
 ---------------------
 #### A Software Engineering student
 
-- 🌍  Based in the Kingdom of Saudi Arabia 🇸🇦
+- 🌍  Based in Saudi Arabia 🇸🇦
 - 🧠  Learning Rust 🦀
 - 🥸  Proficient in Python 🐍 and Swift 🕊️
 - 🤠  Tabs over spaces
